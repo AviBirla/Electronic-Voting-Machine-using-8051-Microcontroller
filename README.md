@@ -22,3 +22,5 @@ The message stays on the screen until the next user either presses the Init butt
 ♦ Resistors , Capacitors , Jumper wires , 6 Switches , a medium size breadboard.
 
 ♦ Crystal Oscillator
+
+Scope of this project is not only to ensure security diversely and avoiding any malpractice performed at a time of voting or after voting(like shuffling of votes or inappropriate counting of votes intentionlly or by human error). the result would be totally untouched and 'pure/unhampered'. Result would be out on the spot within a span of seconds ..this saves a lot of time. Can be effectively implemented in big companies and organizations.
